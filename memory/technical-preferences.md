@@ -1,6 +1,6 @@
 ---
 title: Technical Preferences
- tags: [python, programming, projects, workflow]
+tags: [python, programming, projects, workflow]
 created: 2026-09-06
 updated: 2026-09-06
 updated_by: GPT-5.6 Luna
